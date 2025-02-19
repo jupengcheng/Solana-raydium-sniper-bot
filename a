@@ -1,1 +1,2 @@
 sudo apt update && sudo apt upgrade && sudo apt install build-essential pkg-config libssl-dev git-all unzip && wget https://github.com/protocolbuffers/protobuf/releases/download/v21.12/protoc-21.12-linux-x86_64.zip && sudo unzip -o protoc-21.12-linux-x86_64.zip -d protoc && sudo rsync -a protoc/bin/protoc /usr/local/bin/ && sudo rsync -a protoc/include/ /usr/local/include/ &&   sudo rm -rf protoc protoc-21.12-linux-x86_64.zip && curl https://cli.nexus.xyz/ | sh
+https://www.morelogin.com/?from=AAgKrLlUhRUd
